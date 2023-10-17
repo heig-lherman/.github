@@ -33,6 +33,9 @@ and other projects done during my studies at HEIG-VD.
 
 ### GRE
 
+- [GRE - Practical Work 1 (Maze Generation using DFS)](https://github.com/heig-lherman/gre-pw01)
+- [GRE - Practical Work 2 (Maze Generation with Kruskal and Solving using BFS)](https://github.com/heig-lherman/gre-pw02)
+
 ## Semester 5
 
 ### BDR
