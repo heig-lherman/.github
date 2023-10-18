@@ -40,7 +40,7 @@ and other projects done during my studies at HEIG-VD.
 
 ### BDR
 
-- [BDR - Practical Work 1 (Designing UML diagrams)](https://github.com/heig-lherman/bdr-pw01)
+- [BDR - Practical Work 1 (Designing UML diagrams)](https://github.com/heig-lherman/bdr/tree/main/pw01)
 - BDR - Project
 
 ### DAI
@@ -50,7 +50,7 @@ and other projects done during my studies at HEIG-VD.
 
 ### SIO
 
-- [SIO - Practical Work 1 (Simple constructive heuristics)](https://github.com/heig-lherman/sio-pw01)
+- [SIO - Practical Work 1 (Simple constructive heuristics)](https://github.com/heig-lherman/sio-pw01) ![private](https://img.shields.io/badge/available_on-5th_november-blue)
 
 ### PCO
 
