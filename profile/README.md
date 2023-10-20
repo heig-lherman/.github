@@ -48,6 +48,8 @@ and other projects done during my studies at HEIG-VD.
 
 ### PST
 
+- [Practical Work - Working with R](https://github.com/heig-lherman/pst-pw01)
+
 ### SYL
 
 - [Practical Work 0 - Introduction to Logisim](https://github.com/heig-lherman/syl/tree/main/pw00)
