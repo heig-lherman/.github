@@ -50,6 +50,11 @@ and other projects done during my studies at HEIG-VD.
 
 ### SYL
 
+- [Practical Work 0 - Introduction to Logisim](https://github.com/heig-lherman/syl/tree/main/pw00)
+- [Practical Work 1 - Checksum](https://github.com/heig-lherman/syl/tree/main/pw01)
+- [Practical Work 2 - ALU](https://github.com/heig-lherman/syl/tree/main/pw02)
+- [Practical Work 3 - Chenillard](https://github.com/heig-lherman/syl/tree/main/pw03)
+
 ## Semester 4
 
 ### ARN
