@@ -9,6 +9,12 @@ and other projects done during my studies at HEIG-VD.
 
 ### PRG1
 
+- [Practical Work 1 - Manual parsing of Decimal and Floats](https://github.com/heig-lherman/prg1/tree/main/pw01)
+- [Practical Work 2 - Writing amounts in french word form](https://github.com/heig-lherman/prg1/tree/main/pw02)
+- [Practical Work 3 - Arithmetics from the CLI](https://github.com/heig-lherman/prg1/tree/main/pw03)
+- [Practical Work 4 - Investment strategies (not investment advice)](https://github.com/heig-lherman/prg1/tree/main/pw04)
+- [Practical Work 5 - Math with fractions](https://github.com/heig-lherman/prg1/tree/main/pw05)
+
 ## Semester 2
 
 ### ASD
