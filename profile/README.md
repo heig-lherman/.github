@@ -21,6 +21,9 @@ and other projects done during my studies at HEIG-VD.
 
 ### PRG2
 
+- [Practical Work 1 - Galton Board](https://github.com/heig-lherman/prg2/tree/main/pw01)
+- [Practical Work 2 - Vehicle Parking](https://github.com/heig-lherman/prg2/tree/main/pw02)
+
 ## Semester 3
 
 ### ISD
