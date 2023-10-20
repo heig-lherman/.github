@@ -19,6 +19,16 @@ and other projects done during my studies at HEIG-VD.
 
 ### ASD
 
+- [Practical Work 1 - Complexity evalutation](https://github.com/heig-lherman/asd/tree/main/pw01)
+- [Practical Work 2 - Recursion](https://github.com/heig-lherman/asd/tree/main/pw02)
+- [Practical Work 3 - Sorting algorithms](https://github.com/heig-lherman/asd/tree/main/pw03)
+- [Practical Work 4 - Dynamic memory allocation](https://github.com/heig-lherman/asd/tree/main/pw04)
+- [Practical Work 5 - Variable-length circular buffers](https://github.com/heig-lherman/asd/tree/main/pw05)
+- [Practical Work 6 - Singly-linked lists](https://github.com/heig-lherman/asd/tree/main/pw06)
+- [Practical Work 7 - Arithmetic expressions](https://github.com/heig-lherman/asd/tree/main/pw07)
+- [Practical Work 8 - Nearest value iterators](https://github.com/heig-lherman/asd/tree/main/pw08)
+- [Practical Work 9 - AVL trees](https://github.com/heig-lherman/asd/tree/main/pw09)
+
 ### PRG2
 
 - [Practical Work 1 - Galton Board](https://github.com/heig-lherman/prg2/tree/main/pw01)
