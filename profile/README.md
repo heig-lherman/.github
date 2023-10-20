@@ -41,7 +41,7 @@ and other projects done during my studies at HEIG-VD.
 ### BDR
 
 - [BDR - Practical Work 1 (Designing UML diagrams)](https://github.com/heig-lherman/bdr/tree/main/pw01)
-- BDR - Project
+- [BDR - Project](https://github.com/heig-lherman/bdr-project) ![private](https://img.shields.io/badge/available_on-22nd_january-blue)
 
 ### DAI
 
