@@ -38,6 +38,12 @@ and other projects done during my studies at HEIG-VD.
 
 ### ISD
 
+- [Practical Work 1 - Introduction to Python](https://github.com/heig-lherman/isd/tree/main/pw01)
+- [Practical Work 2 - Tools for statistical anlysis](https://github.com/heig-lherman/isd/tree/main/pw02)
+- [Practical Work 3 - Exploratory data analysis](https://github.com/heig-lherman/isd/tree/main/pw03)
+- [Practical Work 4 - Data model and evaluation](https://github.com/heig-lherman/isd/tree/main/pw04)
+- [Practical Work 5 - Linear regression](https://github.com/heig-lherman/isd/tree/main/pw05)
+
 ### POO
 
 ### PST
