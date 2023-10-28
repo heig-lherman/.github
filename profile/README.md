@@ -87,6 +87,7 @@ and other projects done during my studies at HEIG-VD.
 
 ### PCO
 
+- [PCO - Exercises](https://github.com/heig-lherman/pco/tree/main/exercises)
 - [PCO - Practical Work 2 (Multi-threaded MD5 brute-force)](https://github.com/heig-lherman/pco/tree/main/pw02)
 
 ### SYE
