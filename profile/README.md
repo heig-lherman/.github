@@ -78,6 +78,11 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### ARO
 
+- [Practical Work 1 - Fetch implementation](https://github.com/heig-lherman/aro/tree/main/pw01)
+- [Practical Work 2 - Execute and Decode implementation](https://github.com/heig-lherman/aro/tree/main/pw02)
+- [Practical Work 3 - Interlude on multi-stage pipelins](https://github.com/heig-lherman/aro/tree/main/pw03)
+- [Practical Work 4 - Pipeline implementation with hazard handling](https://github.com/heig-lherman/aro/tree/main/pw04)
+
 ### GRE
 
 - [GRE - Practical Work 1 (Maze Generation using DFS)](https://github.com/heig-lherman/gre-pw01)
