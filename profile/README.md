@@ -5,6 +5,10 @@ Hello!
 In this organisation, you'll find all my practical work
 and other projects done during my studies at HEIG-VD.
 
+## Cheatsheets
+
+You can find all the cheatsheets that I have created in [this repository](https://github.com/heig-lherman/cheatsheets)
+
 ## Semester 1
 
 ### PRG1
