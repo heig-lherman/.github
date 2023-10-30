@@ -70,6 +70,12 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### ARN
 
+- [Practical Work 1 - Introduction to speech recognition](https://github.com/heig-lherman/arn/tree/main/pw01)
+- [Practical Work 2 - Introduction to perceptrons](https://github.com/heig-lherman/arn/tree/main/pw02)
+- [Practical Work 3 - Classifying speakers using speech recognition](https://github.com/heig-lherman/arn/tree/main/pw03)
+- [Practical Work 4 - Training deep convolutional neural networks](https://github.com/heig-lherman/arn/tree/main/pw04)
+- [Practical Work 5 - Classifying car types based on transfer learning and open datasets](https://github.com/heig-lherman/arn/tree/main/pw05)
+
 ### ARO
 
 ### GRE
