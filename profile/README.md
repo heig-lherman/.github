@@ -46,6 +46,11 @@ and other projects done during my studies at HEIG-VD.
 
 ### POO
 
+- [Practical Work 3 - Designing an UML diagram](https://github.com/heig-lherman/poo-pw03)
+- [Practical Work 5 - Matrix arithmetic](https://github.com/heig-lherman/poo-pw05)
+- [Practical Work 7 - Implementing Hanoï](https://github.com/heig-lherman/poo-pw07)
+- [Practical Work 8 - Inefficient scholarly chess implementation](https://github.com/heig-lherman/poo-pw08)
+
 ### PST
 
 - [Practical Work - Working with R](https://github.com/heig-lherman/pst-pw01)
