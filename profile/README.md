@@ -85,36 +85,36 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### GRE
 
-- [GRE - Practical Work 1 (Maze Generation using DFS)](https://github.com/heig-lherman/gre-pw01)
-- [GRE - Practical Work 2 (Maze Generation with Kruskal and Solving using BFS)](https://github.com/heig-lherman/gre-pw02)
-- [GRE - Practical Work 3 (Scholarly airline schedule representation)](https://github.com/heig-lherman/gre-pw03)
+- [Practical Work 1 - Maze Generation using DFS](https://github.com/heig-lherman/gre-pw01)
+- [Practical Work 2 - Maze Generation with Kruskal and Solving using BFS](https://github.com/heig-lherman/gre-pw02)
+- [Practical Work 3 - Scholarly airline schedule representation](https://github.com/heig-lherman/gre-pw03)
 
 ## Semester 5
 
 ### BDR
 
-- [BDR - Exercises](https://github.com/heig-lherman/bdr/tree/main/exercises)
-- [BDR - Practical Work 1 (Designing UML diagrams)](https://github.com/heig-lherman/bdr/tree/main/pw01)
-- [BDR - Practical Work 2 (Basic SQL table creation)](https://github.com/heig-lherman/bdr/tree/main/pw02)
-- [BDR - Project](https://github.com/heig-lherman/bdr-project) ![private](https://img.shields.io/badge/available_on-22nd_january-blue)
+- [Exercises](https://github.com/heig-lherman/bdr/tree/main/exercises)
+- [Practical Work 1 - Designing UML diagrams](https://github.com/heig-lherman/bdr/tree/main/pw01)
+- [Practical Work 2 - Basic SQL table creation](https://github.com/heig-lherman/bdr/tree/main/pw02)
+- [Project](https://github.com/heig-lherman/bdr-project) ![private](https://img.shields.io/badge/available_on-22nd_january-blue)
 
 ### DAI
 
-- [DAI - Practical Contents](https://github.com/heig-lherman/dai-practical-content)
-- [DAI - Practical Work 1 (Basic CLI application)](https://github.com/heig-lherman/dai-pw01)
+- [Practical Contents](https://github.com/heig-lherman/dai-practical-content)
+- [Practical Work 1 - Basic CLI application](https://github.com/heig-lherman/dai-pw01)
 
 ### SIO
 
-- [SIO - Practical Work 1 (Simple constructive heuristics)](https://github.com/heig-lherman/sio-pw01)
+- [Practical Work 1 - Simple constructive heuristics](https://github.com/heig-lherman/sio-pw01)
 
 ### PCO
 
-- [PCO - Exercises](https://github.com/heig-lherman/pco/tree/main/exercises)
-- [PCO - Practical Work 2 (Multi-threaded MD5 brute-force)](https://github.com/heig-lherman/pco/tree/main/pw02)
+- [Exercises](https://github.com/heig-lherman/pco/tree/main/exercises)
+- [Practical Work 2 - Multi-threaded MD5 brute-force](https://github.com/heig-lherman/pco/tree/main/pw02)
 
 ### SYE
 
-- [SYE - Practical Works](https://github.com/heig-lherman/sye)
+- [Practical Works](https://github.com/heig-lherman/sye)
 
 ## Semester 6
 
