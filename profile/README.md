@@ -93,7 +93,9 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### BDR
 
+- [BDR - Exercises](https://github.com/heig-lherman/bdr/tree/main/exercises)
 - [BDR - Practical Work 1 (Designing UML diagrams)](https://github.com/heig-lherman/bdr/tree/main/pw01)
+- [BDR - Practical Work 2 (Basic SQL table creation)](https://github.com/heig-lherman/bdr/tree/main/pw02)
 - [BDR - Project](https://github.com/heig-lherman/bdr-project) ![private](https://img.shields.io/badge/available_on-22nd_january-blue)
 
 ### DAI
@@ -103,7 +105,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### SIO
 
-- [SIO - Practical Work 1 (Simple constructive heuristics)](https://github.com/heig-lherman/sio-pw01) ![private](https://img.shields.io/badge/available_on-5th_november-blue)
+- [SIO - Practical Work 1 (Simple constructive heuristics)](https://github.com/heig-lherman/sio-pw01)
 
 ### PCO
 
