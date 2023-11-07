@@ -102,15 +102,18 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 - [Practical Contents](https://github.com/heig-lherman/dai-practical-content)
 - [Practical Work 1 - Basic CLI application](https://github.com/heig-lherman/dai-pw01)
+- [Practical Work 2 - Multiplayer Chess](https://github.com/heig-lherman/dai-pw02)
 
 ### SIO
 
 - [Practical Work 1 - Simple constructive heuristics](https://github.com/heig-lherman/sio-pw01)
+- [Practical Work 2 - Augmenting heuristics](https://github.com/heig-lherman/sio-pw02)
 
 ### PCO
 
 - [Exercises](https://github.com/heig-lherman/pco/tree/main/exercises)
 - [Practical Work 2 - Multi-threaded MD5 brute-force](https://github.com/heig-lherman/pco/tree/main/pw02)
+- [Practical Work 3 - Factory simulation](https://github.com/heig-lherman/pco/tree/main/pw03)
 
 ### SYE
 
