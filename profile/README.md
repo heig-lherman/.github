@@ -114,6 +114,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Exercises](https://github.com/heig-lherman/pco/tree/main/exercises)
 - [Practical Work 2 - Multi-threaded MD5 brute-force](https://github.com/heig-lherman/pco/tree/main/pw02)
 - [Practical Work 3 - Factory simulation](https://github.com/heig-lherman/pco/tree/main/pw03)
+- [Practical Work 4 - Train branching simulation](https://github.com/heig-lherman/pco/tree/main/pw04)
 
 ### SYE
 
