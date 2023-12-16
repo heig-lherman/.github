@@ -126,18 +126,18 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ## Semester 6
 
-> [!NOTE]
-> I have yet to follow this semester.
-> The content of this section will be updated once I have completed it.
+### CLD
+
+### MAC
+
+### MCR
+
+### PDL
+
+### PLP
+
+### POA
 
 ## Semester 7
 
-> [!NOTE]
-> I have yet to follow this semester.
-> The content of this section will be updated once I have completed it.
-
 ## Semester 8
-
-> [!NOTE]
-> I have yet to follow this semester.
-> The content of this section will be updated once I have completed it.
