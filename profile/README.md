@@ -106,6 +106,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 1 - Basic CLI application](https://github.com/heig-lherman/dai-pw01)
 - [Practical Work 2 - Multiplayer Chess](https://github.com/heig-lherman/dai-pw02)
 - [Practical Work 3 - Distributed Computed Monitoring](https://github.com/heig-lherman/dai-pw03)
+- [Practical Work 4 - Virtual Machine API](https://github.com/heig-lherman/dai-pw04)
 
 ### PCO
 
