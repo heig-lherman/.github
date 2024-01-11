@@ -25,6 +25,41 @@ and other projects done during my studies at HEIG-VD.
 > then share your own personal solutions that others would be happy to have as examples for
 > their own learning exercises.
 
+## TOC
+
+- [Introduction](#heig-vd---my-projects)
+- [TOC](#toc)
+- [Cheatsheets](#cheatsheets)
+- [Semester 1](#semester-1)
+    + [PRG1](#prg1)
+- [Semester 2](#semester-2)
+    + [ASD](#asd)
+    + [PRG2](#prg2)
+- [Semester 3](#semester-3)
+    + [ISD](#isd)
+    + [POO](#poo)
+    + [PST](#pst)
+    + [SYL](#syl)
+- [Semester 4](#semester-4)
+    + [ARN](#arn)
+    + [ARO](#aro)
+    + [GRE](#gre)
+- [Semester 5](#semester-5)
+    + [BDR](#bdr)
+    + [DAI](#dai)
+    + [PCO](#pco)
+    + [SIO](#sio)
+    + [SYE](#sye)
+- [Semester 6](#semester-6)
+    + [CLD](#cld)
+    + [MAC](#mac)
+    + [MCR](#mcr)
+    + [PDL](#pdl)
+    + [PLP](#plp)
+    + [POA](#poa)
+- [Semester 7](#semester-7)
+- [Semester 8](#semester-8)
+
 ## Cheatsheets
 
 You can find all the cheatsheets that I have created in [this repository](https://github.com/heig-lherman/cheatsheets)
