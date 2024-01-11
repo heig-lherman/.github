@@ -5,6 +5,26 @@ Hello!
 In this organisation, you'll find all my practical work
 and other projects done during my studies at HEIG-VD.
 
+> [!IMPORTANT]
+> This organisation is not meant to be a way for you to simply copy my work and submit it.
+> I don't really care if you do, but you'll learn nothing from it.
+>
+> Know the principles of learning: **practice, practice, practice**.
+> You'll learn nothing if you don't do the work yourself.
+>
+> School is not about getting the best grades, it's about learning and understanding the
+> concepts and ideas behind the courses, and to take the opportunity given to us to learn,
+> assimilate and apply the knowledge we are given.
+>
+> School should not be competitive, even though the elitism of the Swiss education system
+> wants it to be, it should be a place to learn and grow, while helping each other to do so.
+>
+> A good learning environment is one where we can work together, not against each other. This
+> principle applies even more in a professional environment. Get started in applying this idea,
+> and use the repositories shared here as a way of mutual aid by taking it as a starting point,
+> then share your own personal solutions that others would be happy to have as examples for
+> their own learning exercises.
+
 ## Cheatsheets
 
 You can find all the cheatsheets that I have created in [this repository](https://github.com/heig-lherman/cheatsheets)
