@@ -6,24 +6,29 @@ In this organisation, you'll find all my practical work
 and other projects done during my studies at HEIG-VD.
 
 > [!IMPORTANT]
-> This organisation is not meant to be a way for you to simply copy my work and submit it.
+> This organisation is not meant to be a way for you to simply copy my work and submit it.<br>
 > I don't really care if you do, but you'll learn nothing from it.
 >
-> Know the principles of learning: **practice, practice, practice**.
-> You'll learn nothing if you don't do the work yourself.
+> Know the principles of learning brought by Thorndike: **readiness, exercise, and effect**.
 >
 > School is not about getting the best grades, it's about learning and understanding the
 > concepts and ideas behind the courses, and to take the opportunity given to us to learn,
-> assimilate and apply the knowledge we are given.
+> assimilate and apply the knowledge we are given. Come ready for it and apply yourself,
+> and you'll be rewarded with a better understanding of the subject, and better grades.
 >
 > School should not be competitive, even though the elitism of the Swiss education system
 > wants it to be, it should be a place to learn and grow, while helping each other to do so.
+> Take the time to focus on these practical works, they are a great way to reflect on what
+> you have assimilated, and to have a common goal you can work towards. Keep in mind that
+> when practice occurs, learning continues.
 >
 > A good learning environment is one where we can work together, not against each other. This
 > principle applies even more in a professional environment. Get started in applying this idea,
 > and use the repositories shared here as a way of mutual aid by taking it as a starting point,
 > then share your own personal solutions that others would be happy to have as examples for
-> their own learning exercises.
+> their own learning exercises. You'll figure out quickly enough that this positive effect you'll
+> have on others will strengthen your ability to learn and understand the subject. A work with
+> great effect is one that will make you want to continue doing it.
 
 ## TOC
 
