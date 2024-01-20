@@ -158,7 +158,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 2 - Basic SQL table creation](https://github.com/heig-lherman/bdr/tree/main/pw02)
 - [Practical Work 3 - SQL queries](https://github.com/heig-lherman/bdr/tree/main/pw03)
 - [Practical Work 4 - Advanced SQL queries](https://github.com/heig-lherman/bdr/tree/main/pw04)
-- [Project](https://github.com/heig-lherman/bdr-project) ![private](https://img.shields.io/badge/available_on-22nd_january-blue)
+- [Project](https://github.com/heig-lherman/bdr-project)
 
 ### DAI
 
