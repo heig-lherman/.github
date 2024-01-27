@@ -181,6 +181,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 - [Practical Work 1 - Simple constructive heuristics](https://github.com/heig-lherman/sio-pw01)
 - [Practical Work 2 - Augmenting heuristics](https://github.com/heig-lherman/sio-pw02)
+- [Practical Work 3 - Equitable distribution](https://github.com/heig-lherman/sio-pw03)
 
 ### SYE
 
