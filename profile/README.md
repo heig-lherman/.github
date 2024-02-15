@@ -73,47 +73,47 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### PRG1
 
-- [Practical Work 1 - Manual parsing of Decimal and Floats](https://github.com/heig-lherman/prg1/tree/main/pw01)
-- [Practical Work 2 - Writing amounts in french word form](https://github.com/heig-lherman/prg1/tree/main/pw02)
-- [Practical Work 3 - Arithmetics from the CLI](https://github.com/heig-lherman/prg1/tree/main/pw03)
-- [Practical Work 4 - Investment strategies (not investment advice)](https://github.com/heig-lherman/prg1/tree/main/pw04)
-- [Practical Work 5 - Math with fractions](https://github.com/heig-lherman/prg1/tree/main/pw05)
+- [Practical Work 1 - Manual parsing of Decimal and Floats](https://github.com/heig-lherman/prg1/tree/main/pw01) (5.7)
+- [Practical Work 2 - Writing amounts in french word form](https://github.com/heig-lherman/prg1/tree/main/pw02) (6.0)
+- [Practical Work 3 - Arithmetics from the CLI](https://github.com/heig-lherman/prg1/tree/main/pw03) (5.7)
+- [Practical Work 4 - Investment strategies (not investment advice)](https://github.com/heig-lherman/prg1/tree/main/pw04) (6.0)
+- [Practical Work 5 - Math with fractions](https://github.com/heig-lherman/prg1/tree/main/pw05) (5.7)
 
 ## Semester 2
 
 ### ASD
 
 - [Practical Work 1 - Complexity evalutation](https://github.com/heig-lherman/asd/tree/main/pw01)
-- [Practical Work 2 - Recursion](https://github.com/heig-lherman/asd/tree/main/pw02)
-- [Practical Work 3 - Sorting algorithms](https://github.com/heig-lherman/asd/tree/main/pw03)
+- [Practical Work 2 - Recursion](https://github.com/heig-lherman/asd/tree/main/pw02) (5.5)
+- [Practical Work 3 - Sorting algorithms](https://github.com/heig-lherman/asd/tree/main/pw03) (5.2)
 - [Practical Work 4 - Dynamic memory allocation](https://github.com/heig-lherman/asd/tree/main/pw04)
 - [Practical Work 5 - Variable-length circular buffers](https://github.com/heig-lherman/asd/tree/main/pw05)
 - [Practical Work 6 - Singly-linked lists](https://github.com/heig-lherman/asd/tree/main/pw06)
 - [Practical Work 7 - Arithmetic expressions](https://github.com/heig-lherman/asd/tree/main/pw07)
 - [Practical Work 8 - Nearest value iterators](https://github.com/heig-lherman/asd/tree/main/pw08)
-- [Practical Work 9 - AVL trees](https://github.com/heig-lherman/asd/tree/main/pw09)
+- [Practical Work 9 - AVL trees](https://github.com/heig-lherman/asd/tree/main/pw09) (6.0)
 
 ### PRG2
 
-- [Practical Work 1 - Galton Board](https://github.com/heig-lherman/prg2/tree/main/pw01)
-- [Practical Work 2 - Vehicle Parking](https://github.com/heig-lherman/prg2/tree/main/pw02)
+- [Practical Work 1 - Galton Board](https://github.com/heig-lherman/prg2/tree/main/pw01) (4.5)
+- [Practical Work 2 - Vehicle Parking](https://github.com/heig-lherman/prg2/tree/main/pw02) (5.1)
 
 ## Semester 3
 
 ### ISD
 
-- [Practical Work 1 - Introduction to Python](https://github.com/heig-lherman/isd/tree/main/pw01)
-- [Practical Work 2 - Tools for statistical anlysis](https://github.com/heig-lherman/isd/tree/main/pw02)
-- [Practical Work 3 - Exploratory data analysis](https://github.com/heig-lherman/isd/tree/main/pw03)
-- [Practical Work 4 - Data model and evaluation](https://github.com/heig-lherman/isd/tree/main/pw04)
-- [Practical Work 5 - Linear regression](https://github.com/heig-lherman/isd/tree/main/pw05)
+- [Practical Work 1 - Introduction to Python](https://github.com/heig-lherman/isd/tree/main/pw01) (6.0)
+- [Practical Work 2 - Tools for statistical anlysis](https://github.com/heig-lherman/isd/tree/main/pw02) (6.0)
+- [Practical Work 3 - Exploratory data analysis](https://github.com/heig-lherman/isd/tree/main/pw03) (6.0)
+- [Practical Work 4 - Data model and evaluation](https://github.com/heig-lherman/isd/tree/main/pw04) (6.0)
+- [Practical Work 5 - Linear regression](https://github.com/heig-lherman/isd/tree/main/pw05) (6.0)
 
 ### POO
 
-- [Practical Work 3 - Designing an UML diagram](https://github.com/heig-lherman/poo-pw03)
-- [Practical Work 5 - Matrix arithmetic](https://github.com/heig-lherman/poo-pw05)
-- [Practical Work 7 - Implementing Hanoï](https://github.com/heig-lherman/poo-pw07)
-- [Practical Work 8 - Inefficient scholarly chess implementation](https://github.com/heig-lherman/poo-pw08)
+- [Practical Work 3 - Designing an UML diagram](https://github.com/heig-lherman/poo-pw03) (4.2)
+- [Practical Work 5 - Matrix arithmetic](https://github.com/heig-lherman/poo-pw05) (5.3)
+- [Practical Work 7 - Implementing Hanoï](https://github.com/heig-lherman/poo-pw07) (5.3)
+- [Practical Work 8 - Inefficient scholarly chess implementation](https://github.com/heig-lherman/poo-pw08) (5.4)
 
 ### PST
 
@@ -122,9 +122,9 @@ You can find all the cheatsheets that I have created in [this repository](https:
 ### SYL
 
 - [Practical Work 0 - Introduction to Logisim](https://github.com/heig-lherman/syl/tree/main/pw00)
-- [Practical Work 1 - Checksum](https://github.com/heig-lherman/syl/tree/main/pw01)
-- [Practical Work 2 - ALU](https://github.com/heig-lherman/syl/tree/main/pw02)
-- [Practical Work 3 - Chenillard](https://github.com/heig-lherman/syl/tree/main/pw03)
+- [Practical Work 1 - Checksum](https://github.com/heig-lherman/syl/tree/main/pw01) (6.0)
+- [Practical Work 2 - ALU](https://github.com/heig-lherman/syl/tree/main/pw02) (6.0)
+- [Practical Work 3 - Chenillard](https://github.com/heig-lherman/syl/tree/main/pw03) (6.0)
 
 ## Semester 4
 
@@ -132,60 +132,60 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 - [Practical Work 1 - Introduction to speech recognition](https://github.com/heig-lherman/arn/tree/main/pw01)
 - [Practical Work 2 - Introduction to perceptrons](https://github.com/heig-lherman/arn/tree/main/pw02)
-- [Practical Work 3 - Classifying speakers using speech recognition](https://github.com/heig-lherman/arn/tree/main/pw03)
-- [Practical Work 4 - Training deep convolutional neural networks](https://github.com/heig-lherman/arn/tree/main/pw04)
-- [Practical Work 5 - Classifying car types based on transfer learning and open datasets](https://github.com/heig-lherman/arn/tree/main/pw05)
+- [Practical Work 3 - Classifying speakers using speech recognition](https://github.com/heig-lherman/arn/tree/main/pw03) (5.7)
+- [Practical Work 4 - Training deep convolutional neural networks](https://github.com/heig-lherman/arn/tree/main/pw04) (6.0)
+- [Practical Work 5 - Classifying car types based on transfer learning and open datasets](https://github.com/heig-lherman/arn/tree/main/pw05) (6.0)
 
 ### ARO
 
-- [Practical Work 1 - Fetch implementation](https://github.com/heig-lherman/aro/tree/main/pw01)
-- [Practical Work 2 - Execute and Decode implementation](https://github.com/heig-lherman/aro/tree/main/pw02)
-- [Practical Work 3 - Interlude on multi-stage pipelins](https://github.com/heig-lherman/aro/tree/main/pw03)
-- [Practical Work 4 - Pipeline implementation with hazard handling](https://github.com/heig-lherman/aro/tree/main/pw04)
+- [Practical Work 1 - Fetch implementation](https://github.com/heig-lherman/aro/tree/main/pw01) (6.0)
+- [Practical Work 2 - Execute and Decode implementation](https://github.com/heig-lherman/aro/tree/main/pw02) (6.0)
+- [Practical Work 3 - Interlude on multi-stage pipelines](https://github.com/heig-lherman/aro/tree/main/pw03)
+- [Practical Work 4 - Pipeline implementation with hazard handling](https://github.com/heig-lherman/aro/tree/main/pw04) (5.6)
 
 ### GRE
 
-- [Practical Work 1 - Maze Generation using DFS](https://github.com/heig-lherman/gre-pw01)
-- [Practical Work 2 - Maze Generation with Kruskal and Solving using BFS](https://github.com/heig-lherman/gre-pw02)
-- [Practical Work 3 - Scholarly airline schedule representation](https://github.com/heig-lherman/gre-pw03)
+- [Practical Work 1 - Maze Generation using DFS](https://github.com/heig-lherman/gre-pw01) (5.0)
+- [Practical Work 2 - Maze Generation with Kruskal and Solving using BFS](https://github.com/heig-lherman/gre-pw02) (5.8)
+- [Practical Work 3 - Scholarly airline schedule representation](https://github.com/heig-lherman/gre-pw03) (5.7)
 
 ## Semester 5
 
 ### BDR
 
 - [Exercises](https://github.com/heig-lherman/bdr/tree/main/exercises)
-- [Practical Work 1 - Designing UML diagrams](https://github.com/heig-lherman/bdr/tree/main/pw01)
+- [Practical Work 1 - Designing UML diagrams](https://github.com/heig-lherman/bdr/tree/main/pw01) (5.1)
 - [Practical Work 2 - Basic SQL table creation](https://github.com/heig-lherman/bdr/tree/main/pw02)
-- [Practical Work 3 - SQL queries](https://github.com/heig-lherman/bdr/tree/main/pw03)
-- [Practical Work 4 - Advanced SQL queries](https://github.com/heig-lherman/bdr/tree/main/pw04)
-- [Project](https://github.com/heig-lherman/bdr-project)
+- [Practical Work 3 - SQL queries](https://github.com/heig-lherman/bdr/tree/main/pw03) (5.7)
+- [Practical Work 4 - Advanced SQL queries](https://github.com/heig-lherman/bdr/tree/main/pw04) (5.7)
+- [Project](https://github.com/heig-lherman/bdr-project) (6.0)
 
 ### DAI
 
 - [Practical Contents](https://github.com/heig-lherman/dai-practical-content)
-- [Practical Work 1 - Basic CLI application](https://github.com/heig-lherman/dai-pw01)
-- [Practical Work 2 - Multiplayer Chess](https://github.com/heig-lherman/dai-pw02)
-- [Practical Work 3 - Distributed Computed Monitoring](https://github.com/heig-lherman/dai-pw03)
-- [Practical Work 4 - Virtual Machine API](https://github.com/heig-lherman/dai-pw04)
+- [Practical Work 1 - Basic CLI application](https://github.com/heig-lherman/dai-pw01) (6.0)
+- [Practical Work 2 - Multiplayer Chess](https://github.com/heig-lherman/dai-pw02) (5.5)
+- [Practical Work 3 - Distributed Computed Monitoring](https://github.com/heig-lherman/dai-pw03) (5.8)
+- [Practical Work 4 - Virtual Machine API](https://github.com/heig-lherman/dai-pw04) (5.3)
 
 ### PCO
 
 - [Exercises](https://github.com/heig-lherman/pco/tree/main/exercises)
 - [Practical Work 2 - Multi-threaded MD5 brute-force](https://github.com/heig-lherman/pco/tree/main/pw02)
-- [Practical Work 3 - Factory simulation](https://github.com/heig-lherman/pco/tree/main/pw03)
-- [Practical Work 4 - Train branching simulation](https://github.com/heig-lherman/pco/tree/main/pw04)
-- [Practical Work 5 - Barber shop simulation](https://github.com/heig-lherman/pco/tree/main/pw05)
+- [Practical Work 3 - Factory simulation](https://github.com/heig-lherman/pco/tree/main/pw03) (4.8)
+- [Practical Work 4 - Train branching simulation](https://github.com/heig-lherman/pco/tree/main/pw04) (5.7)
+- [Practical Work 5 - Barber shop simulation](https://github.com/heig-lherman/pco/tree/main/pw05) (6.0)
 - [Practical Work 6 - Parallel computation machine](https://github.com/heig-lherman/pco/tree/main/pw06)
 
 ### SIO
 
-- [Practical Work 1 - Simple constructive heuristics](https://github.com/heig-lherman/sio-pw01)
-- [Practical Work 2 - Augmenting heuristics](https://github.com/heig-lherman/sio-pw02)
-- [Practical Work 3 - Equitable distribution](https://github.com/heig-lherman/sio-pw03)
+- [Practical Work 1 - Simple constructive heuristics](https://github.com/heig-lherman/sio-pw01) (5.5)
+- [Practical Work 2 - Augmenting heuristics](https://github.com/heig-lherman/sio-pw02) (5.9)
+- [Practical Work 3 - Equitable distribution](https://github.com/heig-lherman/sio-pw03) (5.7)
 
 ### SYE
 
-- [Practical Works](https://github.com/heig-lherman/sye)
+- [Practical Works](https://github.com/heig-lherman/sye) (avg: 6.0)
 
 ## Semester 6
 
