@@ -172,7 +172,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 - [Exercises](https://github.com/heig-lherman/pco/tree/main/exercises)
 - [Practical Work 2 - Multi-threaded MD5 brute-force](https://github.com/heig-lherman/pco/tree/main/pw02)
-- [Practical Work 3 - Factory simulation](https://github.com/heig-lherman/pco/tree/main/pw03) (4.8)
+- [Practical Work 3 - Factory simulation](https://github.com/heig-lherman/pco/tree/main/pw03) (4.8) ![looser](https://cdn.7tv.app/emote/629a85eff04af00ea1fbc3ab/1x.webp)
 - [Practical Work 4 - Train branching simulation](https://github.com/heig-lherman/pco/tree/main/pw04) (5.7)
 - [Practical Work 5 - Barber shop simulation](https://github.com/heig-lherman/pco/tree/main/pw05) (6.0)
 - [Practical Work 6 - Parallel computation machine](https://github.com/heig-lherman/pco/tree/main/pw06)
