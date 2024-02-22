@@ -191,9 +191,13 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### CLD
 
+- [Practical Works](https://github.com/heig-lherman/cld)
+
 ### MAC
 
 ### MCR
+
+- [Practical Work 1 - Distributed stop watches](https://github.com/heig-lherman/mcr-pw01)
 
 ### PDL
 
