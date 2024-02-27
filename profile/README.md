@@ -52,6 +52,7 @@ and other projects done during my studies at HEIG-VD.
 - [Semester 5](#semester-5)
   - [BDR](#bdr)
   - [DAI](#dai)
+  - [EAL](#eal)
   - [PCO](#pco)
   - [SIO](#sio)
   - [SYE](#sye)
@@ -167,6 +168,10 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 2 - Multiplayer Chess](https://github.com/heig-lherman/dai-pw02) (5.5)
 - [Practical Work 3 - Distributed Computed Monitoring](https://github.com/heig-lherman/dai-pw03) (5.8)
 - [Practical Work 4 - Virtual Machine API](https://github.com/heig-lherman/dai-pw04) (5.3)
+
+### EAL
+
+- [Analysis report](https://github.com/heig-lherman/eal/blob/main/rapport-voiture_autonome.pdf) (6.0)
 
 ### PCO
 
