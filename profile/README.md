@@ -205,6 +205,9 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### PLP
 
+- [Practical Content (lives, exercises)](https://github.com/heig-lherman/plp)
+- [Practical Work 1 - wc implementation](https://github.com/heig-lherman/plp/tree/main/pw01)
+
 ### POA
 
 ## Semester 7
