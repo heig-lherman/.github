@@ -200,9 +200,11 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### MAC
 
+- [Practical Work 1 - Couchbase queries](https://github.com/heig-lherman/mac/tree/main/pw01)
+
 ### MCR
 
-- [Practical Work 1 - Distributed stop watches](https://github.com/heig-lherman/mcr-pw01)
+- [Practical Work 1 - Observable stop watches](https://github.com/heig-lherman/mcr-pw01)
 
 ### PDL
 
