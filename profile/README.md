@@ -217,6 +217,9 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### POA
 
+- [Exercises in C++](https://github.com/heig-lherman/poa/tree/main/exercises-cpp)
+- [Exercises in Java](https://github.com/heig-lherman/poa/tree/main/exercises-java)
+
 ## Semester 7
 
 ## Semester 8
