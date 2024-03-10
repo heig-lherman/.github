@@ -210,6 +210,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 ### PDL
 
 - [Practical Work 1 - Git introduction](https://github.com/heig-lherman/pdl-pw01)
+- [Practical Work 2 - UML diagrams](https://github.com/heig-lherman/pdl-pw02)
 
 ### PLP
 
