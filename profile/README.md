@@ -215,12 +215,14 @@ You can find all the cheatsheets that I have created in [this repository](https:
 ### PLP
 
 - [Practical Content (lives, exercises)](https://github.com/heig-lherman/plp)
-- [Practical Work 1 - wc implementation](https://github.com/heig-lherman/plp/tree/main/pw01)
+- [Practical Work 1 - wc implementation](https://github.com/heig-lherman/plp/tree/main/pw01) (5.4)
+- [Practical Work 2 - sets](https://github.com/heig-lherman/plp/tree/main/pw02)
 
 ### POA
 
 - [Exercises in C++](https://github.com/heig-lherman/poa/tree/main/exercises-cpp)
 - [Exercises in Java](https://github.com/heig-lherman/poa/tree/main/exercises-java)
+- [Practical Work 1 - Matrix Reloaded](https://github.com/heig-lherman/poa/tree/main/pw01)
 
 ## Semester 7
 
