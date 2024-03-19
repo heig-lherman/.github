@@ -200,7 +200,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### MAC
 
-- [Practical Work 1 - Couchbase queries](https://github.com/heig-lherman/mac/tree/main/pw01)
+- [Practical Work 1 - Couchbase queries](https://github.com/heig-lherman/mac/tree/main/pw01) (6.0)
 - [Practical Work 2 - Neo4J queries](https://github.com/heig-lherman/mac/tree/main/pw02)
 
 ### MCR
@@ -215,7 +215,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 ### PLP
 
 - [Practical Content (lives, exercises)](https://github.com/heig-lherman/plp)
-- [Practical Work 1 - wc implementation](https://github.com/heig-lherman/plp/tree/main/pw01) (5.4)
+- [Practical Work 1 - wc implementation](https://github.com/heig-lherman/plp/tree/main/pw01) (5.5)
 - [Practical Work 2 - sets](https://github.com/heig-lherman/plp/tree/main/pw02)
 
 ### POA
