@@ -202,15 +202,19 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 - [Practical Work 1 - Couchbase queries](https://github.com/heig-lherman/mac/tree/main/pw01) (6.0)
 - [Practical Work 2 - Neo4J queries](https://github.com/heig-lherman/mac/tree/main/pw02)
+- [Practical Work 3 - Elastic Search](https://github.com/heig-lherman/mac/tree/main/pw03)
 
 ### MCR
 
 - [Practical Work 1 - Observable stop watches](https://github.com/heig-lherman/mcr-pw01)
+- [Practical Work 2 - Bouncers](https://github.com/heig-lherman/mcr-pw02)
 
 ### PDL
 
 - [Practical Work 1 - Git introduction](https://github.com/heig-lherman/pdl-pw01)
-- [Practical Work 2 - UML diagrams](https://github.com/heig-lherman/pdl-pw02)
+- [Practical Work 2 - Class diagram](https://github.com/heig-lherman/pdl-pw02)
+- [Practical Work 3 - Use case diagram](https://github.com/heig-lherman/pdl-pw03)
+- [Practical Work 4 - Class diagram continued](https://github.com/heig-lherman/pdl-pw04)
 
 ### PLP
 
@@ -223,6 +227,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Exercises in C++](https://github.com/heig-lherman/poa/tree/main/exercises-cpp)
 - [Exercises in Java](https://github.com/heig-lherman/poa/tree/main/exercises-java)
 - [Practical Work 1 - Matrix Reloaded](https://github.com/heig-lherman/poa/tree/main/pw01)
+- [Practical Work 2 - Squadron](https://github.com/heig-lherman/poa/tree/main/pw02)
 
 ## Semester 7
 
