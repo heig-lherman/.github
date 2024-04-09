@@ -201,32 +201,33 @@ You can find all the cheatsheets that I have created in [this repository](https:
 ### MAC
 
 - [Practical Work 1 - Couchbase queries](https://github.com/heig-lherman/mac/tree/main/pw01) (6.0)
-- [Practical Work 2 - Neo4J queries](https://github.com/heig-lherman/mac/tree/main/pw02)
+- [Practical Work 2 - Neo4J queries](https://github.com/heig-lherman/mac/tree/main/pw02) (5.6)
 - [Practical Work 3 - Elastic Search](https://github.com/heig-lherman/mac/tree/main/pw03)
 
 ### MCR
 
-- [Practical Work 1 - Observable stop watches](https://github.com/heig-lherman/mcr-pw01)
+- [Practical Work 1 - Observable stop watches](https://github.com/heig-lherman/mcr-pw01) (5.2)
 - [Practical Work 2 - Bouncers](https://github.com/heig-lherman/mcr-pw02)
 
 ### PDL
 
 - [Practical Work 1 - Git introduction](https://github.com/heig-lherman/pdl-pw01)
 - [Practical Work 2 - Class diagram](https://github.com/heig-lherman/pdl-pw02)
-- [Practical Work 3 - Use case diagram](https://github.com/heig-lherman/pdl-pw03)
-- [Practical Work 4 - Class diagram continued](https://github.com/heig-lherman/pdl-pw04)
+- Practical Work 3 - Use case diagram
+- Practical Work 4 - Class diagram continued
+- [Practical Work 5 - Case study](https://github.com/heig-lherman/pdl-pw05)
 
 ### PLP
 
 - [Practical Content (lives, exercises)](https://github.com/heig-lherman/plp)
 - [Practical Work 1 - wc implementation](https://github.com/heig-lherman/plp/tree/main/pw01) (5.5)
-- [Practical Work 2 - sets](https://github.com/heig-lherman/plp/tree/main/pw02)
+- [Practical Work 2 - sets](https://github.com/heig-lherman/plp/tree/main/pw02) (5.9)
 
 ### POA
 
 - [Exercises in C++](https://github.com/heig-lherman/poa/tree/main/exercises-cpp)
 - [Exercises in Java](https://github.com/heig-lherman/poa/tree/main/exercises-java)
-- [Practical Work 1 - Matrix Reloaded](https://github.com/heig-lherman/poa/tree/main/pw01)
+- [Practical Work 1 - Matrix Reloaded](https://github.com/heig-lherman/poa/tree/main/pw01) (5.1)
 - [Practical Work 2 - Squadron](https://github.com/heig-lherman/poa/tree/main/pw02)
 
 ## Semester 7
