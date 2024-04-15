@@ -216,6 +216,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - Practical Work 3 - Use case diagram
 - Practical Work 4 - Class diagram continued
 - [Practical Work 5 - Case study](https://github.com/heig-lherman/pdl-pw05)
+- Practical Work 6 - Activity diagram
 
 ### PLP
 
