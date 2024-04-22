@@ -223,6 +223,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Content (lives, exercises)](https://github.com/heig-lherman/plp)
 - [Practical Work 1 - wc implementation](https://github.com/heig-lherman/plp/tree/main/pw01) (5.5)
 - [Practical Work 2 - sets](https://github.com/heig-lherman/plp/tree/main/pw02) (5.9)
+- [Practical Work 3 - csvkit](https://github.com/heig-lherman/plp/tree/main/pw03)
 
 ### POA
 
