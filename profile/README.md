@@ -218,13 +218,15 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - Practical Work 4 - Class diagram continued
 - [Practical Work 5 - Case study](https://github.com/heig-lherman/pdl-pw05)
 - Practical Work 6 - Activity diagram
+- [Practical Work 7 - State machine diagram](https://github.com/heig-lherman/pdl-pw07)
 
 ### PLP
 
 - [Practical Content (lives, exercises)](https://github.com/heig-lherman/plp)
-- [Practical Work 1 - wc implementation](https://github.com/heig-lherman/plp/tree/main/pw01) (5.5)
+- [Practical Work 1 - wc](https://github.com/heig-lherman/plp/tree/main/pw01) (5.5)
 - [Practical Work 2 - sets](https://github.com/heig-lherman/plp/tree/main/pw02) (5.9)
-- [Practical Work 3 - csvkit](https://github.com/heig-lherman/plp/tree/main/pw03)
+- [Practical Work 3 - csvkit](https://github.com/heig-lherman/plp/tree/main/pw03) (6.0)
+- [Practical Work 4 - decaf](https://github.com/heig-lherman/plp/tree/main/pw04)
 
 ### POA
 
