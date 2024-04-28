@@ -208,7 +208,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 ### MCR
 
 - [Practical Work 1 - Observable stop watches](https://github.com/heig-lherman/mcr-pw01) (5.2)
-- [Practical Work 2 - Bouncers](https://github.com/heig-lherman/mcr-pw02)
+- [Practical Work 2 - Bouncers](https://github.com/heig-lherman/mcr-pw02) (5.1)
 - [Project - Visitor Pattern](https://github.com/heig-lherman/mcr-project)
 
 ### PDL
