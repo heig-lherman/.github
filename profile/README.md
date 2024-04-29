@@ -220,6 +220,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 5 - Case study](https://github.com/heig-lherman/pdl-pw05)
 - Practical Work 6 - Activity diagram
 - [Practical Work 7 - State machine diagram](https://github.com/heig-lherman/pdl-pw07)
+- [Practical Work 8 - Software development process](https://github.com/heig-lherman/pdl-pw08)
 
 ### PLP
 
