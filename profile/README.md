@@ -229,13 +229,15 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 2 - sets](https://github.com/heig-lherman/plp/tree/main/pw02) (5.9)
 - [Practical Work 3 - csvkit](https://github.com/heig-lherman/plp/tree/main/pw03) (6.0)
 - [Practical Work 4 - decaf](https://github.com/heig-lherman/plp/tree/main/pw04)
+- [Practical Work 5 - zcc](https://github.com/heig-lherman/plp/tree/main/pw05)
+- Pracitcal Work 6 - haskeval
 
 ### POA
 
 - [Exercises in C++](https://github.com/heig-lherman/poa/tree/main/exercises-cpp)
 - [Exercises in Java](https://github.com/heig-lherman/poa/tree/main/exercises-java)
 - [Practical Work 1 - Matrix Reloaded](https://github.com/heig-lherman/poa/tree/main/pw01) (5.1)
-- [Practical Work 2 - Squadron](https://github.com/heig-lherman/poa/tree/main/pw02)
+- [Practical Work 2 - Squadron](https://github.com/heig-lherman/poa/tree/main/pw02) (5.4)
 - [Practical Work 3 - River](https://github.com/heig-lherman/poa/tree/main/pw03)
 
 ## Semester 7
