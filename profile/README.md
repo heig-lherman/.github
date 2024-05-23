@@ -202,13 +202,13 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 - [Practical Work 1 - Couchbase queries](https://github.com/heig-lherman/mac/tree/main/pw01) (6.0)
 - [Practical Work 2 - Neo4J queries](https://github.com/heig-lherman/mac/tree/main/pw02) (5.6)
-- [Practical Work 3 - Elastic Search](https://github.com/heig-lherman/mac/tree/main/pw03)
+- [Practical Work 3 - Elastic Search](https://github.com/heig-lherman/mac/tree/main/pw03) (5.6)
 - [Practical Work 4 - Case Study: Resilience on Elastic Search](https://github.com/heig-lherman/mac/tree/main/pw04)
 
 ### MCR
 
 - [Practical Work 1 - Observable stop watches](https://github.com/heig-lherman/mcr-pw01) (5.2)
-- [Practical Work 2 - Bouncers](https://github.com/heig-lherman/mcr-pw02) (5.1)
+- [Practical Work 2 - Bouncers](https://github.com/heig-lherman/mcr-pw02) (5.2)
 - [Project - Visitor Pattern](https://github.com/heig-lherman/mcr-project)
 
 ### PDL
