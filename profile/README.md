@@ -204,6 +204,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 2 - Neo4J queries](https://github.com/heig-lherman/mac/tree/main/pw02) (5.6)
 - [Practical Work 3 - Elastic Search](https://github.com/heig-lherman/mac/tree/main/pw03) (5.6)
 - [Practical Work 4 - Case Study: Resilience on Elastic Search](https://github.com/heig-lherman/mac/tree/main/pw04)
+- [Practical Work 5 - Spark](https://github.com/heig-lherman/mac/tree/main/pw05)
 
 ### MCR
 
