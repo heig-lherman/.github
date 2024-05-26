@@ -63,7 +63,14 @@ and other projects done during my studies at HEIG-VD.
   - [PDL](#pdl)
   - [PLP](#plp)
   - [POA](#poa)
+- [Summer 3](#summer-3)
+  - [PDG](#pdg)
 - [Semester 7](#semester-7)
+  - [AMT](#amt)
+  - [DAA](#daa)
+  - [SDR](#sdr)
+  - [SLH](#slh)
+  - [WEB](#web)
 - [Semester 8](#semester-8)
 
 ## Cheatsheets
@@ -231,7 +238,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 3 - csvkit](https://github.com/heig-lherman/plp/tree/main/pw03) (6.0)
 - [Practical Work 4 - decaf](https://github.com/heig-lherman/plp/tree/main/pw04) (5.2)
 - [Practical Work 5 - zcc](https://github.com/heig-lherman/plp/tree/main/pw05)
-- Pracitcal Work 6 - haskeval
+- Practical Work 6 - haskeval
 
 ### POA
 
@@ -240,7 +247,24 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 1 - Matrix Reloaded](https://github.com/heig-lherman/poa/tree/main/pw01) (5.1)
 - [Practical Work 2 - Squadron](https://github.com/heig-lherman/poa/tree/main/pw02) (5.4)
 - [Practical Work 3 - River](https://github.com/heig-lherman/poa/tree/main/pw03)
+- [Practical Work 4 - Buffy](https://github.com/heig-lherman/poa/tree/main/pw04)
+
+## Summer 3
+
+### PDG
+
+- [Project](https://github.com/heig-lherman/pdg-project)
 
 ## Semester 7
+
+### AMT
+
+### DAA
+
+### SDR
+
+### SLH
+
+### WEB
 
 ## Semester 8
