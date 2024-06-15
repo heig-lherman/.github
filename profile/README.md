@@ -210,8 +210,8 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 1 - Couchbase queries](https://github.com/heig-lherman/mac/tree/main/pw01) (6.0)
 - [Practical Work 2 - Neo4J queries](https://github.com/heig-lherman/mac/tree/main/pw02) (5.6)
 - [Practical Work 3 - Elastic Search](https://github.com/heig-lherman/mac/tree/main/pw03) (5.6)
-- [Practical Work 4 - Case Study: Resilience on Elastic Search](https://github.com/heig-lherman/mac/tree/main/pw04)
-- [Practical Work 5 - Spark](https://github.com/heig-lherman/mac/tree/main/pw05)
+- [Practical Work 4 - Case Study: Resilience on Elastic Search](https://github.com/heig-lherman/mac/tree/main/pw04) (5.5)
+- [Practical Work 5 - Spark](https://github.com/heig-lherman/mac/tree/main/pw05) (5.7)
 
 ### MCR
 
@@ -225,7 +225,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 2 - Class diagram](https://github.com/heig-lherman/pdl-pw02)
 - Practical Work 3 - Use case diagram
 - Practical Work 4 - Class diagram continued
-- [Practical Work 5 - Case study](https://github.com/heig-lherman/pdl-pw05)
+- [Practical Work 5 - Case study](https://github.com/heig-lherman/pdl-pw05) (5.4)
 - Practical Work 6 - Activity diagram
 - [Practical Work 7 - State machine diagram](https://github.com/heig-lherman/pdl-pw07) (5.5)
 - [Practical Work 8 - Software development process](https://github.com/heig-lherman/pdl-pw08)
@@ -237,7 +237,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 2 - sets](https://github.com/heig-lherman/plp/tree/main/pw02) (5.9)
 - [Practical Work 3 - csvkit](https://github.com/heig-lherman/plp/tree/main/pw03) (6.0)
 - [Practical Work 4 - decaf](https://github.com/heig-lherman/plp/tree/main/pw04) (5.2)
-- [Practical Work 5 - zcc](https://github.com/heig-lherman/plp/tree/main/pw05)
+- [Practical Work 5 - zcc](https://github.com/heig-lherman/plp/tree/main/pw05) (6.0)
 - Practical Work 6 - haskeval
 
 ### POA
@@ -246,7 +246,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Exercises in Java](https://github.com/heig-lherman/poa/tree/main/exercises-java)
 - [Practical Work 1 - Matrix Reloaded](https://github.com/heig-lherman/poa/tree/main/pw01) (5.1)
 - [Practical Work 2 - Squadron](https://github.com/heig-lherman/poa/tree/main/pw02) (5.4)
-- [Practical Work 3 - River](https://github.com/heig-lherman/poa/tree/main/pw03)
+- [Practical Work 3 - River](https://github.com/heig-lherman/poa/tree/main/pw03) (5.9)
 - [Practical Work 4 - Buffy](https://github.com/heig-lherman/poa/tree/main/pw04)
 
 ## Summer 3
