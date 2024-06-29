@@ -203,7 +203,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### CLD
 
-- [Practical Works](https://github.com/heig-lherman/cld)
+- [Practical Works](https://github.com/heig-lherman/cld) (avg: 5.5)
 
 ### MAC
 
@@ -217,7 +217,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 - [Practical Work 1 - Observable stop watches](https://github.com/heig-lherman/mcr-pw01) (5.2)
 - [Practical Work 2 - Bouncers](https://github.com/heig-lherman/mcr-pw02) (5.2)
-- [Project - Visitor Pattern](https://github.com/heig-lherman/mcr-project)
+- [Project - Visitor Pattern](https://github.com/heig-lherman/mcr-project) (5.5)
 
 ### PDL
 
@@ -228,7 +228,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 5 - Case study](https://github.com/heig-lherman/pdl-pw05) (5.4)
 - Practical Work 6 - Activity diagram
 - [Practical Work 7 - State machine diagram](https://github.com/heig-lherman/pdl-pw07) (5.5)
-- [Practical Work 8 - Software development process](https://github.com/heig-lherman/pdl-pw08)
+- [Practical Work 8 - Software development process](https://github.com/heig-lherman/pdl-pw08) (5.4)
 
 ### PLP
 
@@ -238,7 +238,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 3 - csvkit](https://github.com/heig-lherman/plp/tree/main/pw03) (6.0)
 - [Practical Work 4 - decaf](https://github.com/heig-lherman/plp/tree/main/pw04) (5.2)
 - [Practical Work 5 - zcc](https://github.com/heig-lherman/plp/tree/main/pw05) (6.0)
-- Practical Work 6 - haskeval
+- ~Practical Work 6 - haskeval~
 
 ### POA
 
@@ -247,7 +247,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 1 - Matrix Reloaded](https://github.com/heig-lherman/poa/tree/main/pw01) (5.1)
 - [Practical Work 2 - Squadron](https://github.com/heig-lherman/poa/tree/main/pw02) (5.4)
 - [Practical Work 3 - River](https://github.com/heig-lherman/poa/tree/main/pw03) (5.9)
-- [Practical Work 4 - Buffy](https://github.com/heig-lherman/poa/tree/main/pw04)
+- [Practical Work 4 - Buffy](https://github.com/heig-lherman/poa/tree/main/pw04) (5.3)
 
 ## Summer 3
 
