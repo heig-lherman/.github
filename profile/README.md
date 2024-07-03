@@ -253,7 +253,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### PDG
 
-- [Project](https://github.com/heig-lherman/pdg-project)
+- [Project](https://github.com/presentium)
 
 ## Semester 7
 
