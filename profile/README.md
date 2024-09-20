@@ -263,7 +263,11 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### SDR
 
+- [Exercises](https://github.com/heig-lherman/sdr/tree/main/exercises)
+
 ### SLH
+
+- [Exercises](https://github.com/heig-lherman/slh/tree/main/exercises)
 
 ### WEB
 
