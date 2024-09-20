@@ -259,7 +259,11 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### AMT
 
+- [Practical Work 0 - Introduction](https://github.com/heig-lherman/amt-pw0)
+
 ### DAA
+
+- [Practical Work 0 - Introduction](https://github.com/heig-lherman/daa-pw0)
 
 ### SDR
 
@@ -270,5 +274,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Exercises](https://github.com/heig-lherman/slh/tree/main/exercises)
 
 ### WEB
+
+- [Practical Work 0 - Introduction](https://github.com/heig-lherman/web-pw0)
 
 ## Semester 8
