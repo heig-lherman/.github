@@ -259,15 +259,16 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### AMT
 
-- [Practical Work 0 - Introduction](https://github.com/heig-lherman/amt-pw0)
+- [Practical Work 0 - Introduction](https://github.com/heig-lherman/amt/tree/main/pw0)
 
 ### DAA
 
-- [Practical Work 0 - Introduction](https://github.com/heig-lherman/daa-pw0)
+- [Practical Work 0 - Introduction](https://github.com/heig-lherman/daa/tree/main/pw0)
 
 ### SDR
 
 - [Exercises](https://github.com/heig-lherman/sdr/tree/main/exercises)
+- [Practical Work 1 - Fault resilience](https://github.com/heig-lherman/sdr/tree/main/pw1)
 
 ### SLH
 
