@@ -263,7 +263,8 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### DAA
 
-- [Practical Work 0 - Introduction](https://github.com/heig-lherman/daa/tree/main/pw0)
+- [Practical Work 1 - Introduction](https://github.com/heig-lherman/daa-pw1)
+- [Practical Work 2 - Activities and Fragments](https://github.com/heig-lherman/daa-pw2)
 
 ### SDR
 
