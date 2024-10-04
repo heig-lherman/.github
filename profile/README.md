@@ -278,5 +278,6 @@ You can find all the cheatsheets that I have created in [this repository](https:
 ### WEB
 
 - [Practical Work 0 - Introduction](https://github.com/heig-lherman/web-pw0)
+- [Practical Work 1 - Deezer](https://github.com/heig-lherman/web-pw1)
 
 ## Semester 8
