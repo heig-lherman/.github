@@ -274,6 +274,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 ### SLH
 
 - [Exercises](https://github.com/heig-lherman/slh/tree/main/exercises)
+- [Practical Work 1 - CSRF, XSS, SQL Injection](https://github.com/heig-lherman/slh/tree/main/pw1)
 
 ### WEB
 
