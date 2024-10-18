@@ -260,11 +260,14 @@ You can find all the cheatsheets that I have created in [this repository](https:
 ### AMT
 
 - [Practical Work 0 - Introduction](https://github.com/heig-lherman/amt/tree/main/pw0)
+- [Practical Work 1 - Reflection use cases](https://github.com/heig-lherman/amt/tree/main/pw1)
+- [Practical Work 2 - JPA entities for Sakila](https://github.com/heig-lherman/amt/tree/main/pw2)
 
 ### DAA
 
 - [Practical Work 1 - Introduction](https://github.com/heig-lherman/daa-pw1)
 - [Practical Work 2 - Activities and Fragments](https://github.com/heig-lherman/daa-pw2)
+- [Practical Work 3 - MVC Interactions](https://github.com/heig-lherman/daa-pw3)
 
 ### SDR
 
@@ -280,5 +283,6 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 - [Practical Work 0 - Introduction](https://github.com/heig-lherman/web-pw0)
 - [Practical Work 1 - Deezer](https://github.com/heig-lherman/web-pw1)
+- [Practical Work 2 - Tetris 1](https://github.com/heig-lherman/web-pw2)
 
 ## Semester 8
