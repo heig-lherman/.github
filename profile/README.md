@@ -262,6 +262,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 0 - Introduction](https://github.com/heig-lherman/amt/tree/main/pw0)
 - [Practical Work 1 - Reflection use cases](https://github.com/heig-lherman/amt/tree/main/pw1)
 - [Practical Work 2 - JPA entities for Sakila](https://github.com/heig-lherman/amt/tree/main/pw2)
+- [Practical Work 3 - Business layer using Sakila](https://github.com/heig-lherman/amt/tree/main/pw3)
 
 ### DAA
 
