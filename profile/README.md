@@ -268,7 +268,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 - [Practical Work 1 - Introduction](https://github.com/heig-lherman/daa-pw1)
 - [Practical Work 2 - Activities and Fragments](https://github.com/heig-lherman/daa-pw2) (5.9)
-- [Practical Work 3 - MVC Interactions](https://github.com/heig-lherman/daa-pw3)
+- [Practical Work 3 - MVC Interactions](https://github.com/heig-lherman/daa-pw3) (6.0)
 - [Practical Work 4 - MVVM: Room + RecyclerView](https://github.com/heig-lherman/daa-pw4)
 
 ### SDR
