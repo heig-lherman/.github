@@ -276,6 +276,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Exercises](https://github.com/heig-lherman/sdr/tree/main/exercises)
 - [Practical Work 1 - Fault resilience](https://github.com/heig-lherman/sdr/tree/main/pw1) (6.0)
 - [Practical Work 2 - Total order](https://github.com/heig-lherman/sdr/tree/main/pw2)
+- [Practical Work 3 - Load balancing](https://github.com/heig-lherman/sdr/tree/main/pw3)
 
 ### SLH
 
