@@ -166,7 +166,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 2 - Basic SQL table creation](https://github.com/heig-lherman/bdr/tree/main/pw02)
 - [Practical Work 3 - SQL queries](https://github.com/heig-lherman/bdr/tree/main/pw03) (5.7)
 - [Practical Work 4 - Advanced SQL queries](https://github.com/heig-lherman/bdr/tree/main/pw04) (5.7)
-- [Project](https://github.com/heig-lherman/bdr-project) (6.0)
+- [Project - Track progress through Switzerland's railways](https://github.com/heig-lherman/bdr-project) (6.0)
 
 ### DAI
 
@@ -261,8 +261,9 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 - [Practical Work 0 - Introduction](https://github.com/heig-lherman/amt/tree/main/pw0)
 - [Practical Work 1 - Reflection use cases](https://github.com/heig-lherman/amt/tree/main/pw1)
-- [Practical Work 2 - JPA entities for Sakila](https://github.com/heig-lherman/amt/tree/main/pw2) (5.7)
-- [Practical Work 3 - Business layer using Sakila](https://github.com/heig-lherman/amt/tree/main/pw3)
+- [Practical Work 2 - JPA entities for Sakila](https://github.com/heig-lherman/amt/tree/main/pw2) (5.8)
+- [Practical Work 3 - Business layer using Sakila](https://github.com/heig-lherman/amt/tree/main/pw3) (6.0)
+- [Project - TBD](https://github.com/heig-lherman/amt-project)
 
 ### DAA
 
@@ -270,6 +271,9 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 2 - Activities and Fragments](https://github.com/heig-lherman/daa-pw2) (5.9)
 - [Practical Work 3 - MVC Interactions](https://github.com/heig-lherman/daa-pw3) (6.0)
 - [Practical Work 4 - MVVM: Room + RecyclerView](https://github.com/heig-lherman/daa-pw4)
+- [Practical Work 5 - Async Tasks and Coroutines](https://github.com/heig-lherman/daa-pw5)
+- [Practical Work 6 - MVVM: Data from HTTP APIs](https://github.com/heig-lherman/daa-pw6)
+- [Workshop - Case Study: TBD](https://github.com/heig-lherman/daa-workshop)
 
 ### SDR
 
@@ -277,11 +281,14 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 1 - Fault resilience](https://github.com/heig-lherman/sdr/tree/main/pw1) (6.0)
 - [Practical Work 2 - Total order](https://github.com/heig-lherman/sdr/tree/main/pw2)
 - [Practical Work 3 - Load balancing](https://github.com/heig-lherman/sdr/tree/main/pw3)
+- [Practical Work 4 - Incomplete network](https://github.com/heig-lherman/sdr/tree/main/pw4)
 
 ### SLH
 
 - [Exercises](https://github.com/heig-lherman/slh/tree/main/exercises)
-- [Practical Work 1 - CSRF, XSS, SQL Injection](https://github.com/heig-lherman/slh/tree/main/pw1)
+- [Practical Work 1 - CSRF, XSS, SQL Injection](https://github.com/heig-lherman/slh/tree/main/pw1) (5.9)
+- [Practical Work 2 - TBD](https://github.com/heig-lherman/slh/tree/main/pw2)
+- [Practical Work 3 - TBD](https://github.com/heig-lherman/slh/tree/main/pw3)
 
 ### WEB
 
@@ -289,5 +296,8 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 1 - Deezer](https://github.com/heig-lherman/web-pw1) (6.0)
 - [Practical Work 2 - Tetris 1](https://github.com/heig-lherman/web-pw2)
 - [Practical Work 3 - Tetris 2](https://github.com/heig-lherman/web-pw3)
+- [Practical Work 4 - Tetris 3](https://github.com/heig-lherman/web-pw4)
+- [Practical Work 5 - Security](https://github.com/heig-lherman/web-pw5)
+- [Project - TBD](https://github.com/heig-lherman/web-project)
 
 ## Semester 8
