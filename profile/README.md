@@ -273,7 +273,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 4 - MVVM: Room + RecyclerView](https://github.com/heig-lherman/daa-pw4)
 - [Practical Work 5 - Async Tasks and Coroutines](https://github.com/heig-lherman/daa-pw5)
 - [Practical Work 6 - MVVM: Data from HTTP APIs](https://github.com/heig-lherman/daa-pw6)
-- [Workshop - Case Study: TBD](https://github.com/heig-lherman/daa-workshop)
+- [Workshop - Case Study: App widgets](https://github.com/heig-lherman/daa-workshop)
 
 ### SDR
 
@@ -287,7 +287,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 - [Exercises](https://github.com/heig-lherman/slh/tree/main/exercises)
 - [Practical Work 1 - CSRF, XSS, SQL Injection](https://github.com/heig-lherman/slh/tree/main/pw1) (5.9)
-- [Practical Work 2 - TBD](https://github.com/heig-lherman/slh/tree/main/pw2)
+- [Practical Work 2 - Authentication](https://github.com/heig-lherman/slh/tree/main/pw2)
 - [Practical Work 3 - TBD](https://github.com/heig-lherman/slh/tree/main/pw3)
 
 ### WEB
