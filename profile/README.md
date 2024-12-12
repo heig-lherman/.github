@@ -263,15 +263,15 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 1 - Reflection use cases](https://github.com/heig-lherman/amt/tree/main/pw1)
 - [Practical Work 2 - JPA entities for Sakila](https://github.com/heig-lherman/amt/tree/main/pw2) (5.8)
 - [Practical Work 3 - Business layer using Sakila](https://github.com/heig-lherman/amt/tree/main/pw3) (6.0)
-- [Project - TBD](https://github.com/heig-lherman/amt-project)
+- [Project - VineWard: wine reviews using auto-generated ABAC authorization](https://github.com/heig-lherman/amt-project)
 
 ### DAA
 
 - [Practical Work 1 - Introduction](https://github.com/heig-lherman/daa-pw1)
 - [Practical Work 2 - Activities and Fragments](https://github.com/heig-lherman/daa-pw2) (5.9)
 - [Practical Work 3 - MVC Interactions](https://github.com/heig-lherman/daa-pw3) (6.0)
-- [Practical Work 4 - MVVM: Room + RecyclerView](https://github.com/heig-lherman/daa-pw4)
-- [Practical Work 5 - Async Tasks and Coroutines](https://github.com/heig-lherman/daa-pw5) (cancelled)
+- [Practical Work 4 - MVVM: Room + RecyclerView](https://github.com/heig-lherman/daa-pw4) (5.9)
+- [Practical Work 5 - Async Tasks and Coroutines](https://github.com/heig-lherman/daa-pw5)
 - [Practical Work 6 - MVVM: Data from HTTP APIs](https://github.com/heig-lherman/daa-pw6)
 - [Workshop - Case Study: App widgets](https://github.com/heig-lherman/daa-workshop)
 
@@ -296,7 +296,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 1 - Deezer](https://github.com/heig-lherman/web-pw1) (6.0)
 - [Practical Work 2 - Tetris 1](https://github.com/heig-lherman/web-pw2) (6.0)
 - [Practical Work 3 - Tetris 2](https://github.com/heig-lherman/web-pw3)
-- [Practical Work 4 - Tetris 3](https://github.com/heig-lherman/web-pw4)
+- Practical Work 4 - Tetris 3
 - [Practical Work 5 - Security](https://github.com/heig-lherman/web-pw5)
 - [Project - TBD](https://github.com/heig-lherman/web-project)
 
