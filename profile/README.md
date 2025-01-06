@@ -279,7 +279,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 - [Exercises](https://github.com/heig-lherman/sdr/tree/main/exercises)
 - [Practical Work 1 - Fault resilience](https://github.com/heig-lherman/sdr/tree/main/pw1) (6.0)
-- [Practical Work 2 - Total order](https://github.com/heig-lherman/sdr/tree/main/pw2)
+- [Practical Work 2 - Total order](https://github.com/heig-lherman/sdr/tree/main/pw2) (6.0)
 - [Practical Work 3 - Load balancing](https://github.com/heig-lherman/sdr/tree/main/pw3)
 - [Practical Work 4 - Incomplete network](https://github.com/heig-lherman/sdr/tree/main/pw4)
 
@@ -288,7 +288,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Exercises](https://github.com/heig-lherman/slh/tree/main/exercises)
 - [Practical Work 1 - CSRF, XSS, SQL Injection](https://github.com/heig-lherman/slh/tree/main/pw1) (5.9)
 - [Practical Work 2 - Authentication](https://github.com/heig-lherman/slh/tree/main/pw2)
-- [Practical Work 3 - TBD](https://github.com/heig-lherman/slh/tree/main/pw3)
+- [Practical Work 3 - Authorization](https://github.com/heig-lherman/slh/tree/main/pw3)
 
 ### WEB
 
