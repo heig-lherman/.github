@@ -72,6 +72,11 @@ and other projects done during my studies at HEIG-VD.
   - [SLH](#slh)
   - [WEB](#web)
 - [Semester 8](#semester-8)
+  - [PAS](#pas)
+  - [PEN](#pen)
+  - [PLM](#plm)
+  - [TAL](#tal)
+- [Bachelors's Thesis](#bachelors-thesis)
 
 ## Cheatsheets
 
@@ -301,3 +306,17 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Project - TBD](https://github.com/heig-lherman/web-project)
 
 ## Semester 8
+
+### PAS
+
+### PEN
+
+- [Subject Proposal](https://github.com/heig-lherman/pen/blob/main/subject-proposal.pdf)
+- Report
+
+### PLM
+
+### TAL
+
+## Bachelor's Thesis
+
