@@ -277,7 +277,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 3 - MVC Interactions](https://github.com/heig-lherman/daa-pw3) (6.0)
 - [Practical Work 4 - MVVM: Room + RecyclerView](https://github.com/heig-lherman/daa-pw4) (5.9)
 - [Practical Work 5 - Async Tasks and Coroutines](https://github.com/heig-lherman/daa-pw5)
-- [Practical Work 6 - MVVM: Data from HTTP APIs](https://github.com/heig-lherman/daa-pw6)
+- [Practical Work 6 - MVVM: Data from HTTP APIs](https://github.com/heig-lherman/daa-pw6) (6.0)
 - [Workshop - Case Study: App widgets](https://github.com/heig-lherman/daa-workshop)
 
 ### SDR
