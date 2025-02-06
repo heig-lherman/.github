@@ -268,7 +268,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 1 - Reflection use cases](https://github.com/heig-lherman/amt/tree/main/pw1)
 - [Practical Work 2 - JPA entities for Sakila](https://github.com/heig-lherman/amt/tree/main/pw2) (5.8)
 - [Practical Work 3 - Business layer using Sakila](https://github.com/heig-lherman/amt/tree/main/pw3) (6.0)
-- [Project - VineWard: wine reviews using auto-generated ABAC authorization](https://github.com/heig-lherman/amt-project)
+- [Project - VineWard: wine reviews using auto-generated ABAC authorization](https://github.com/heig-lherman/amt-project) (5.8)
 
 ### DAA
 
