@@ -302,8 +302,8 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 2 - Tetris 1](https://github.com/heig-lherman/web-pw2) (6.0)
 - [Practical Work 3 - Tetris 2](https://github.com/heig-lherman/web-pw3)
 - Practical Work 4 - Tetris 3
-- [Practical Work 5 - Security](https://github.com/heig-lherman/web-pw5)
-- [Practical Work 6 - React](https://github.com/heig-lherman/web-pw6)
+- [Practical Work 5 - Security](https://github.com/heig-lherman/web-pw5) (6.0)
+- [Practical Work 6 - React](https://github.com/heig-lherman/web-pw6) (6.0)
 
 ## Semester 8
 
