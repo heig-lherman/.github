@@ -318,5 +318,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### TAL
 
+- [Practical Work 1 - Introduction to NLTK](https://github.com/heig-lherman/tal/tree/main/pw1)
+
 ## Bachelor's Thesis
 
