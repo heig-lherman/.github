@@ -316,6 +316,8 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### PLM
 
+- [Subject Proposal - Introductory presentation](https://github.com/heig-lherman/plm/blob/main/introductory-presentation.pdf)
+
 ### TAL
 
 - [Practical Work 1 - Introduction to NLTK](https://github.com/heig-lherman/tal/tree/main/pw1)
