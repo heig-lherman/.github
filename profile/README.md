@@ -309,6 +309,9 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### PAS
 
+- [Exercises](https://github.com/heig-lherman/pas/tree/main/exercises)
+- [Practical Work 1 - Test suites](https://github.com/heig-lherman/pas/tree/main/pw1)
+
 ### PEN
 
 - [Subject Proposal](https://github.com/heig-lherman/pen/blob/main/subject-proposal.pdf)
