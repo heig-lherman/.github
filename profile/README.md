@@ -311,7 +311,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 - [Exercises](https://github.com/heig-lherman/pas/tree/main/exercises)
 - [Practical Work 1 - Test suites](https://github.com/heig-lherman/pas/tree/main/pw1)
-- [Practical Work 2 - Bot-Tender natural language parsing](https://github.com/heig-lherman/pas/tree/main/pw2)
+- [Practical Work 2 - Bot-Tender natural language parser and REPL](https://github.com/heig-lherman/pas/tree/main/pw2)
 
 ### PEN
 
@@ -324,7 +324,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 ### TAL
 
-- [Practical Work 1 - Introduction to NLTK](https://github.com/heig-lherman/tal/tree/main/pw1)
+- [Practical Work 1 - Introduction to NLTK](https://github.com/heig-lherman/tal/tree/main/pw1) (6.0)
 - [Practical Work 2 - POS tagging with spaCy & NLTK](https://github.com/heig-lherman/tal/tree/main/pw2)
 
 ## Bachelor's Thesis
