@@ -326,6 +326,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 
 - [Practical Work 1 - Introduction to NLTK](https://github.com/heig-lherman/tal/tree/main/pw1) (6.0)
 - [Practical Work 2 - POS tagging with spaCy & NLTK](https://github.com/heig-lherman/tal/tree/main/pw2)
+- [Practical Work 3 - Parsing with spaCy](https://github.com/heig-lherman/tal/tree/main/pw3)
 
 ## Bachelor's Thesis
 
