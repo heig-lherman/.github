@@ -321,12 +321,19 @@ You can find all the cheatsheets that I have created in [this repository](https:
 ### PLM
 
 - [Subject Proposal - Introductory presentation](https://github.com/heig-lherman/plm/blob/main/introductory-presentation.pdf)
+- [Intermediary Report - Formal language for quality constraints](https://github.com/heig-lherman/plm/blob/main/intermediary-report.pdf)
+- [Intermediary Report - Language presentation](https://github.com/heig-lherman/plm/blob/main/intermediary-presentation.pdf)
+- [Language Implementation - StandardQL compiler](https://github.com/heig-lherman/plm/tree/main/compiler)
+- Language Implementation - Validation engine
+- Final Report - Concrete implementation
+- Final Report - Validation engine presentation
 
 ### TAL
 
 - [Practical Work 1 - Introduction to NLTK](https://github.com/heig-lherman/tal/tree/main/pw1) (6.0)
 - [Practical Work 2 - POS tagging with spaCy & NLTK](https://github.com/heig-lherman/tal/tree/main/pw2)
 - [Practical Work 3 - Parsing with spaCy](https://github.com/heig-lherman/tal/tree/main/pw3)
+- [Practical Work 4 - Named entities with NLTK, spaCy & DistilBERT](https://github.com/heig-lherman/tal/tree/main/pw4)
 
 ## Bachelor's Thesis
 
