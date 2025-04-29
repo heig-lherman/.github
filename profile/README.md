@@ -310,8 +310,8 @@ You can find all the cheatsheets that I have created in [this repository](https:
 ### PAS
 
 - [Exercises](https://github.com/heig-lherman/pas/tree/main/exercises)
-- [Practical Work 1 - Test suites](https://github.com/heig-lherman/pas/tree/main/pw1)
-- [Practical Work 2 - Bot-Tender natural language parser and REPL](https://github.com/heig-lherman/pas/tree/main/pw2)
+- [Practical Work 1 - Test suites](https://github.com/heig-lherman/pas/tree/main/pw1) (5.4)
+- [Practical Work 2 - Bot-Tender natural language parser and REPL](https://github.com/heig-lherman/pas/tree/main/pw2) (5.8)
 
 ### PEN
 
