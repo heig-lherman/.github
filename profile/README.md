@@ -312,6 +312,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Exercises](https://github.com/heig-lherman/pas/tree/main/exercises)
 - [Practical Work 1 - Test suites](https://github.com/heig-lherman/pas/tree/main/pw1) (5.4)
 - [Practical Work 2 - Bot-Tender natural language parser and REPL](https://github.com/heig-lherman/pas/tree/main/pw2) (5.8)
+- [Practical Work 3 - Bot-Tender Web Server and Chatroom](https://github.com/heig-lherman/pas/tree/main/pw3)
 
 ### PEN
 
@@ -321,10 +322,10 @@ You can find all the cheatsheets that I have created in [this repository](https:
 ### PLM
 
 - [Subject Proposal - Introductory presentation](https://github.com/heig-lherman/plm/blob/main/introductory-presentation.pdf)
-- [Intermediary Report - Formal language for quality constraints](https://github.com/heig-lherman/plm/blob/main/intermediary-report.pdf)
-- [Intermediary Report - Language presentation](https://github.com/heig-lherman/plm/blob/main/intermediary-presentation.pdf)
+- [Intermediary Report - Formal language for quality constraints](https://github.com/heig-lherman/plm/blob/main/intermediary-report.pdf) (6.0)
+- [Intermediary Report - Language presentation](https://github.com/heig-lherman/plm/blob/main/intermediary-presentation.pdf) (6.0)
 - [Language Implementation - StandardQL compiler](https://github.com/heig-lherman/plm/tree/main/compiler)
-- Language Implementation - Validation engine
+- [Language Implementation - Validation engine](https://github.com/heig-lherman/plm/tree/main/engine)
 - Final Report - Concrete implementation
 - Final Report - Validation engine presentation
 
@@ -334,6 +335,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 2 - POS tagging with spaCy & NLTK](https://github.com/heig-lherman/tal/tree/main/pw2)
 - [Practical Work 3 - Parsing with spaCy](https://github.com/heig-lherman/tal/tree/main/pw3)
 - [Practical Work 4 - Named entities with NLTK, spaCy & DistilBERT](https://github.com/heig-lherman/tal/tree/main/pw4)
+- [Practical Work 5 - word2vec and its use-cases](https://github.com/heig-lherman/tal/tree/main/pw5)
 
 ## Bachelor's Thesis
 
