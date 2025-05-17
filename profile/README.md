@@ -312,7 +312,8 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Exercises](https://github.com/heig-lherman/pas/tree/main/exercises)
 - [Practical Work 1 - Test suites](https://github.com/heig-lherman/pas/tree/main/pw1) (5.4)
 - [Practical Work 2 - Bot-Tender natural language parser and REPL](https://github.com/heig-lherman/pas/tree/main/pw2) (5.8)
-- [Practical Work 3 - Bot-Tender Web Server and Chatroom](https://github.com/heig-lherman/pas/tree/main/pw3)
+- [Practical Work 3 - Bot-Tender web server and chatroom](https://github.com/heig-lherman/pas/tree/main/pw3)
+- [Practical Work 4 - Bot-Tender with future handling](https://github.com/heig-lherman/pas/tree/main/pw4)
 
 ### PEN
 
@@ -332,10 +333,11 @@ You can find all the cheatsheets that I have created in [this repository](https:
 ### TAL
 
 - [Practical Work 1 - Introduction to NLTK](https://github.com/heig-lherman/tal/tree/main/pw1) (6.0)
-- [Practical Work 2 - POS tagging with spaCy & NLTK](https://github.com/heig-lherman/tal/tree/main/pw2)
-- [Practical Work 3 - Parsing with spaCy](https://github.com/heig-lherman/tal/tree/main/pw3)
+- [Practical Work 2 - POS tagging with spaCy & NLTK](https://github.com/heig-lherman/tal/tree/main/pw2) (6.0)
+- [Practical Work 3 - Parsing with spaCy](https://github.com/heig-lherman/tal/tree/main/pw3) (6.0)
 - [Practical Work 4 - Named entities with NLTK, spaCy & DistilBERT](https://github.com/heig-lherman/tal/tree/main/pw4)
 - [Practical Work 5 - word2vec and its use-cases](https://github.com/heig-lherman/tal/tree/main/pw5)
+- [Practical Work 6 - Lexical Disambiguation (WSD)](https://github.com/heig-lherman/tal/tree/main/pw6)
 
 ## Bachelor's Thesis
 
