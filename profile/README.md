@@ -312,13 +312,13 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Exercises](https://github.com/heig-lherman/pas/tree/main/exercises)
 - [Practical Work 1 - Test suites](https://github.com/heig-lherman/pas/tree/main/pw1) (5.4)
 - [Practical Work 2 - Bot-Tender natural language parser and REPL](https://github.com/heig-lherman/pas/tree/main/pw2) (5.8)
-- [Practical Work 3 - Bot-Tender web server and chatroom](https://github.com/heig-lherman/pas/tree/main/pw3)
-- [Practical Work 4 - Bot-Tender with future handling](https://github.com/heig-lherman/pas/tree/main/pw4)
+- [Practical Work 3 - Bot-Tender web server and chatroom](https://github.com/heig-lherman/pas/tree/main/pw3) (5.7)
+- [Practical Work 4 - Bot-Tender with future handling](https://github.com/heig-lherman/pas/tree/main/pw4) (6.0)
 
 ### PEN
 
 - [Subject Proposal](https://github.com/heig-lherman/pen/blob/main/subject-proposal.pdf)
-- Report
+- [Final Report](https://github.com/heig-lherman/pen/blob/main/final-report.pdf)
 
 ### PLM
 
@@ -327,8 +327,8 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Intermediary Report - Language presentation](https://github.com/heig-lherman/plm/blob/main/intermediary-presentation.pdf) (6.0)
 - [Language Implementation - StandardQL compiler](https://github.com/heig-lherman/plm/tree/main/compiler)
 - [Language Implementation - Validation engine](https://github.com/heig-lherman/plm/tree/main/engine)
-- Final Report - Concrete implementation
-- Final Report - Validation engine presentation
+- [Final Report - Concrete implementation](https://github.com/heig-lherman/plm/blob/main/final-report.pdf)
+- [Final Report - Validation engine presentation](https://github.com/heig-lherman/plm/blob/main/final-presentation.pdf)
 
 ### TAL
 
