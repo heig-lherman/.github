@@ -325,10 +325,10 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Subject Proposal - Introductory presentation](https://github.com/heig-lherman/plm/blob/main/introductory-presentation.pdf)
 - [Intermediary Report - Formal language for quality constraints](https://github.com/heig-lherman/plm/blob/main/intermediary-report.pdf) (6.0)
 - [Intermediary Report - Language presentation](https://github.com/heig-lherman/plm/blob/main/intermediary-presentation.pdf) (6.0)
-- [Language Implementation - StandardQL compiler](https://github.com/heig-lherman/plm/tree/main/compiler)
-- [Language Implementation - Validation engine](https://github.com/heig-lherman/plm/tree/main/engine)
-- [Final Report - Concrete implementation](https://github.com/heig-lherman/plm/blob/main/final-report.pdf)
-- [Final Report - Validation engine presentation](https://github.com/heig-lherman/plm/blob/main/final-presentation.pdf)
+- [Language Implementation - StandardQL compiler](https://github.com/heig-lherman/plm/tree/main/compiler) (6.0)
+- [Language Implementation - Validation engine](https://github.com/heig-lherman/plm/tree/main/engine) (6.0)
+- [Final Report - Concrete implementation](https://github.com/heig-lherman/plm/blob/main/final-report.pdf) (6.0)
+- [Final Report - Validation engine presentation](https://github.com/heig-lherman/plm/blob/main/final-presentation.pdf) (6.0)
 
 ### TAL
 
@@ -340,4 +340,7 @@ You can find all the cheatsheets that I have created in [this repository](https:
 - [Practical Work 6 - Lexical Disambiguation (WSD)](https://github.com/heig-lherman/tal/tree/main/pw6)
 
 ## Bachelor's Thesis
+
+Unfortunately, my advisors have asked me to keep the source code as well as most of the report confidential.
+A redacted version may be published at a later date once the necessary credentials have been obtained.
 
